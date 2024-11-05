@@ -4,5 +4,5 @@
 
 ### Linguagem utilizada 
 
-[![FIGMA]([https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-)]()
+[![Lua]([https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+)
